@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "4a54a8d20f37526d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2347e8946794f35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5562508aefdeb412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "«Почему хорошие привычки редко приживаются» (Why Good Habits Rarely Stick).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "«Почему хорошие привычки редко приживаются» (Why Good Habits Rarely Stick)"
+            }
+          },
+          {
+            "id": "4c7d9cbc1ac8e4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рекомендации по улучшению сна от доктора К.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рекомендации по улучшению сна от доктора К"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6596199861493203",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f170d34f8291ba9a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ab1b4af9824c4220",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6dbe7d353de2adbd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1426490ce30b7851",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "f87799191bccf1b9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2069a41e1facebf6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2b03b0a234f4832c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Рекомендации по улучшению сна от доктора К.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0e3f8e9725a84290",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3d1a42e977643e80",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f170d34f8291ba9a",
+  "lastOpenFiles": [
+    "Стабильность как маска страха близости. деконтаминация Взрослого.md",
+    "«Почему хорошие привычки редко приживаются» (Why Good Habits Rarely Stick).md",
+    "Как победить свои зависимости — объяснение на примере Plants vs Zombies.md",
+    "Ложь об успехах и природа самооценки.md",
+    "Ностальгия и застревание в прошлом.md",
+    "Цикл отчаяния и поиск карьерного пути.md",
+    "Why Your Diagnosis Never Feels Right.md",
+    "Почему вы чувствуете себя такими беспомощными.md",
+    "Рекомендации по улучшению сна от доктора К.md",
+    "источник.md",
+    "Как восстановить кишечник за 30 дней.md"
+  ]
+}
