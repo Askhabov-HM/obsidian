@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9fef4b50300b0182",
+        "id": "d186d4095b885b52",
         "type": "tabs",
         "children": [
           {
-            "id": "c439545bdc0958e0",
+            "id": "64551365e717900a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "First note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "First note"
             }
           }
         ]
@@ -172,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,11 +184,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c439545bdc0958e0",
+  "active": "64551365e717900a",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled.md",
-    "2026-02-09.md",
     "Untitled.base",
+    "2026-02-09.md",
     "Untitled.canvas",
     "First note.md"
   ]
