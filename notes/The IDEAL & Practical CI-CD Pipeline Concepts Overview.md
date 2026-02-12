@@ -55,4 +55,4 @@
 ## Ссылки и источники
 
 * Видео: "The IDEAL & Practical CI / CD Pipeline - Concepts Overview" (Be A Better Dev)
-* [Оригинал на YouTube](https://www.youtube.com/watch?v=S7v868X9oYI)
+* [Оригинал на YouTube](https://www.youtube.com/watch?v=OPwU3UWCxhw)
